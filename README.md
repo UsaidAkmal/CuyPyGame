@@ -1,0 +1,2 @@
+# MoleGame
+Game sederhana yang dibuat untuk mengimplementasikan hasil pembelajaran dari playlist CuyUnivesity by Bang @DeaAfrizal, untuk cara memainkanya ada di bawah ya,thank you :)
