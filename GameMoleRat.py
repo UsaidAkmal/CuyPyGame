@@ -3,7 +3,7 @@ import pprint
 import io
 from libs import welcome_message
 
-hello_massage='WELCOME TO THE GAME Brosz'
+hello_massage='WELCOME TO THE GAME'
 spasi=' '
 bentuk_goa = '''
    ╔═════╗ ╔═════╗ ╔═════╗ ╔═════╗ ╔═════╗ ╔═════╗ ╔═════╗
