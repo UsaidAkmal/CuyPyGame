@@ -1,7 +1,7 @@
-# MoleGame
+# CUYPYGame
 Game sederhana yang dibuat untuk mengimplementasikan hasil pembelajaran dari playlist CuyUnivesity by Bang @DeaAfrizal, untuk cara memainkanya ada di bawah ya,thank you :)
 
-# WELCOME TO MOLEGAME V3 release version
+# WELCOME TO CUYPYGAME V3 release version
 
 <pre>
 $user@terminal:<b>python3 GameMoleRat.py</b>
@@ -54,8 +54,8 @@ WELCOME TO THE GAMES AKMAL!!!
 <br>
 <br>
 
-# Game MOLEGAME
-<b>Tugas kamu adalah mencari si Tikus Tanah yang bernama CUYPY di banyaknya lubang yang ada </b>. Kamu dapat mencoba menjalankannya langsung di Google Colab melalui link di bawah ini: ini adalah V2 dari MoleGames, V3-nya masih belum bisa dijalankan di Google Colab
+# Game CUYPYGAME
+<b>Tugas kamu adalah mencari si Tikus Tanah yang bernama CUYPY di banyaknya lubang yang ada </b>. Kamu dapat mencoba menjalankannya langsung di replit melalui link di bawah ini: ini adalah V3 dari CuyPyGames
 
 [Klik di sini untuk menjalankan game di Replit.com](https://replit.com/@usaidakmallinor/MoleGamewithPython?v=1)
 <br>
@@ -63,7 +63,7 @@ WELCOME TO THE GAMES AKMAL!!!
 <hr>
 <br>
 
-# Cara Bermain MOLEGAME
+# Cara Bermain CUYPYGames
 <br>
 <ol>
     <li><b>clone repository git@github.com: UsaidAkmalLino/MoleGame.git</b></li><br>
