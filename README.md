@@ -4,7 +4,7 @@ Game sederhana yang dibuat untuk mengimplementasikan hasil pembelajaran dari pla
 # WELCOME TO CUYPYGAME V3 release version
 
 <pre>
-$user@terminal:<b>python3 GameMoleRat.py</b>
+$user@terminal:<b>python3 CuyPy.py</b>
 
     _________________________________________________
     |                                               |\ 
